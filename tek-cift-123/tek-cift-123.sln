@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tek-cift-123", "tek-cift-123\tek-cift-123.csproj", "{C671B92A-B823-4B57-9927-DC4023C15BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C671B92A-B823-4B57-9927-DC4023C15BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C671B92A-B823-4B57-9927-DC4023C15BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C671B92A-B823-4B57-9927-DC4023C15BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C671B92A-B823-4B57-9927-DC4023C15BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630C4E14-4F60-44B8-BED1-5837987AD99A}
+	EndGlobalSection
+EndGlobal

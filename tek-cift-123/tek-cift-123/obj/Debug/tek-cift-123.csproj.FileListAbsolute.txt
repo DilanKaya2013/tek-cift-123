@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\bin\Debug\tek-cift-123.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\bin\Debug\tek-cift-123.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\bin\Debug\tek-cift-123.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek-cift-123.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek-cift-123.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek_cift_123.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek_cift_123.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek-cift-123.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek-cift-123.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek-cift-123.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\tek-cift-123\tek-cift-123\obj\Debug\tek-cift-123.pdb
